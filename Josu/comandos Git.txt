@@ -1,0 +1,20 @@
+git config --global user.name zaballuko
+git config --global user.email zaballuko@gmail.com
+
+git config --list
+git clone zaballuko@host: https
+git clone https://
+git init
+git status
+git add archivo.php
+git commit -m 'mi primer commit'
+git status
+git push -u origin master
+git status
+git pull
+git add archivo.php
+git commit -m 'mi primer commit'
+git status
+git push -u origin master
+
+http://rogerdudler.github.io/git-guide/index.es.html
